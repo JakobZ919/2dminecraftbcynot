@@ -36,7 +36,7 @@ selected_slot = None
 
 # World settings
 tile_size = 20
-chunk_size = 60
+chunk_size = 120
 chunk_height = 250
 
 # Load textures

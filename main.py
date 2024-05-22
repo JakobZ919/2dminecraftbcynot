@@ -26,6 +26,7 @@ player_velocity_y = 0
 jump_strength = 15
 gravity = 1
 player_speed = 5
+
 can_jump = False
 
 # Inventory settings
